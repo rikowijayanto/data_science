@@ -8,7 +8,7 @@ to documenting the data science materials and brief hands-on
 - Word2Vec + Keras
 
 ### [2] Image Classification
-- Keras Sequential Part I
+- Keras Sequential Part I (Image_Classification_Hands_On.ipynb)
 - Keras Sequential Part II
 
 
